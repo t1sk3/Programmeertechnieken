@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c908b016-7b46-4184-87f8-5bdf39be931c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/Ex3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/Ex3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/out/production/Ex3/Barometer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/out/production/Ex3/MeasuringInstrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/out/production/Ex3/Pluviometer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/out/production/Ex3/Thermometer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/out/production/Ex3/WeatherStation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/out/production/Ex3/WeatherStationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/src/Barometer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/src/MeasuringInstrument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/src/Pluviometer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/src/Thermometer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/src/WeatherStation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Ex3/src/WeatherStationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/Lab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab1/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/Ex2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/Canvas$CanvasPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/Canvas$ShapeDescription.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/MyShape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/out/production/Ex2/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/shapes.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/src/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/src/MyShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2/Ex2/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2/src/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="261wUMH5Xtm44dfGMxf5FNDRyh9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c908b016-7b46-4184-87f8-5bdf39be931c" name="Changes" comment="" />
+      <created>1646604414577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646604414577</updated>
+      <workItem from="1646604415687" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
