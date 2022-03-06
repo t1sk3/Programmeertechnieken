@@ -17,7 +17,7 @@ public class Circle extends MyShape
      */
     public Circle(int pX, int pY, String c)
     {
-        super (pX, pY, c);
+        super(pX, pY, c);
         diameter = 68;
     }
 
